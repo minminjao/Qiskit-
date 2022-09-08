@@ -1,4 +1,4 @@
-# Qiskit-
+# Qiskit-STUDY REVIEW
 자격증공부 복습용으로 올리는 사이트
 
 <h3>1. 게이트 요약</h3>
